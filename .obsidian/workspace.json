@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+                "file": "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -26,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "18416 - TO DO LIST"
+              "title": "18283 - TO DO LIST"
             }
           }
         ]
@@ -232,20 +232,22 @@
       "print:Print note": false
     }
   },
-  "active": "0480d87fc8b92ced",
+  "active": "f0557a215dbf37f0",
   "lastOpenFiles": [
-    "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
+    "18313 - 1334 York/Task Notes/loading to foundations for mat under shear walls.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
     "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "column and wall design.md",
+    "floor slab designs.md",
+    "18452 - 200 Kent/18542 - TO DO LIST.md",
+    "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
     "Design Procedures/Structural Notes/Info Regarding Structural Notes.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
     "18078- 8-10 Lott St/OVERALL.md",
     "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-    "18452 - 200 Kent/18542 - TO DO LIST.md",
     "Untitled.base",
     "2026-09-25.md",
-    "18313 - 1334 York/Task Notes/loading to foundations for mat under shear walls.md",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260922134918.png",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924110128.png",
     "18416 - 144 St. Felix/Task Notes/Images",
@@ -278,7 +280,6 @@
     "18416 - 144 St. Felix/Task Notes/Number columns.md",
     "18416 - 144 St. Felix/Task Notes/share base loads with fna.md",
     "18416 - 144 St. Felix/COORDINATION.md",
-    "18416 - 144 St. Felix/Task Notes/bracing beam design.md",
     "Untitled.canvas"
   ]
 }

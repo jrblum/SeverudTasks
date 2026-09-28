@@ -25,7 +25,6 @@ kanban-plugin: board
 - [ ] [[transfer beam design]]
 - [ ] [[talk to Iliana about the one column that just stops at cellar 3]]
 - [ ] [[bracing beam design]]
-- [ ] general notes and typical details
 
 
 ## Complete
@@ -34,6 +33,7 @@ kanban-plugin: board
 - [ ] review ADP removal / demo pdfs
 - [ ] [[column coordination]]
 - [ ] MTA Notes with JRG and JBA
+- [ ] general notes and typical details
 
 
 

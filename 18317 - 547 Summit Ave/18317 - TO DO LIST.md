@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
-- [ ] floor slab designs
 - [ ] update Revit to have walls in correct spot
 - [ ] windtech coordination
 - [ ] column and wall coordination - ongoing
@@ -18,6 +17,8 @@ kanban-plugin: board
 
 ## To Do: High Priority ⏫
 
+- [ ] [[floor slab designs]]
+- [ ] [[column and wall design]]
 
 
 ## In Progress

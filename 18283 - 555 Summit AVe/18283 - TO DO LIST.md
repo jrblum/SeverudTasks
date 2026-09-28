@@ -10,11 +10,11 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
-- [ ] [[Split Slab Typical Floors into groups of 5 stories]]
 
 
 ## To Do: High Priority ⏫
 
+- [ ] [[Split Slab Typical Floors into groups of 5 stories]]
 
 
 ## In Progress
