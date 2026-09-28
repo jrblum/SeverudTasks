@@ -1,0 +1,2 @@
+- [ ] 📅 2026-09-28 
+- [ ] Check slab reinforcing in Concept at each floor for top and bottom to see what the required reinforcing where slab is acting as a link beam between walls

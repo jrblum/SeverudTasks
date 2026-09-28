@@ -1,0 +1,4 @@
+#### Design and Philosophy of Script
+- This script will export RAM Concept floor types from RAM SS, and create a folder for each type. In that folder there will be two models for both negative and positive slab bending with the column support types edited (fixed & pinned) respectively
+- it will also compare punching shear loads for each column at each story type. It will let you envelope loads between certain stories
+	- the script will have to recognize which columns are in a stack. it will also have to know where in the stack it is so the script knows which loads at which stories for which columns to compare

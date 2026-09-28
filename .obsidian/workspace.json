@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "2c3a0e03c227b3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1fbde9bfff4292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0557a215dbf37f0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "18416 - TO DO LIST"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0213e7e3f11ec764",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d64049fdf6006d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "952d3e9c98d7fb9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e3987f1126668fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23e1b5d4d910db30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4a8349950f3f557",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c45eb97416bf98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f8ec5bb80ec44b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "18416 - 144 St. Felix/OVERALL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "257f9717810f0485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "18416 - St. Felix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55bccf5975d89f3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c12bfdea57a2d0ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3a270c51e6185c31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "18416 - St. Felix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "eb3a774001e00ed0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "35eb1a324312c628",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0480d87fc8b92ced",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "print:Print note": false
+    }
+  },
+  "active": "0480d87fc8b92ced",
+  "lastOpenFiles": [
+    "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "Design Procedures/Structural Notes/Info Regarding Structural Notes.md",
+    "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
+    "18078- 8-10 Lott St/OVERALL.md",
+    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "18452 - 200 Kent/18542 - TO DO LIST.md",
+    "Untitled.base",
+    "2026-09-25.md",
+    "18313 - 1334 York/Task Notes/loading to foundations for mat under shear walls.md",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260922134918.png",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924110128.png",
+    "18416 - 144 St. Felix/Task Notes/Images",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924112001.png",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924110448.png",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924105436.png",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924104337.png",
+    "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924104325.png",
+    "18416 - 144 St. Felix/Task Notes/column coordination.md",
+    "18416 - 144 St. Felix/CA.md",
+    "18416 - 144 St. Felix/DESIGN.md",
+    "18416 - 144 St. Felix/OVERALL.md",
+    "18317 - 547 Summit Ave/Task Notes/design the tie beams and markup.md",
+    "18313 - 1334 York/Task Notes",
+    "18313 - 1334 York",
+    "18317 - 547 Summit Ave/OVERALL.md",
+    "18317 - 547 Summit Ave/Task Notes",
+    "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
+    "18452 - 200 Kent/Task Notes",
+    "18452 - 200 Kent/Task Notes/model Benji added floors.md",
+    "18452 - 200 Kent",
+    "Design Procedures/Untitled.md",
+    "Design Procedures/Structural Notes",
+    "Design Procedures/Flat Plate Slabs/Pasted image 20260922160853.png",
+    "Design Procedures/Flat Plate Slabs/Pasted image 20260922162311.png",
+    "Design Procedures/Flat Plate Slabs/Pasted image 20260922160709.png",
+    "Design Procedures/Flat Plate Slabs",
+    "Design Procedures",
+    "18416 - 144 St. Felix/Task Notes/transfer beam design.md",
+    "18416 - 144 St. Felix/Task Notes/Number columns.md",
+    "18416 - 144 St. Felix/Task Notes/share base loads with fna.md",
+    "18416 - 144 St. Felix/COORDINATION.md",
+    "18416 - 144 St. Felix/Task Notes/bracing beam design.md",
+    "Untitled.canvas"
+  ]
+}

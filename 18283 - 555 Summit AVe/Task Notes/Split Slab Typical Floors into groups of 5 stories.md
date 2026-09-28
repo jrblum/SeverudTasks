@@ -1,0 +1,3 @@
+- [ ] we need to split the floors into 5 floor typical floors. Because the columns are engaged, slabs arent as typical since the column moments and resulting punching shear will be different at every story
+- [ ] check the rebar between core walls and outriggers.
+- [ ] when we look at the column punching, if I cant get it to work, just stop there and use the fact that we designed the walls with disengaged columns. Treat the column with punching shear failure as gravity to mitigate the failure.

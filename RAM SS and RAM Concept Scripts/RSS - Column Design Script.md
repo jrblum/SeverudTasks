@@ -1,0 +1,8 @@
+## Philosophy and Idea Behind Script
+- This script will be used to optimize the column process in RAM SS. Currently, it is pretty grueling to go through and design column sizes at every story in RAM SS, as it required you to personally go through and find concrete column sizes that work.
+- This will also use a custom algorithm for assigning rebar pattern groups to each column stack. The script will print a warning to the user when a column stack might require more than 3 pattern groups, which is the max RAM SS will let you apply.
+	- in that case, I will make a additional algorithm that iterates through each column in a stack and individually applies the bar pattern itself, not the group. This is essentially designing it in the script instead of in RAM. Will print a big warning telling the user to run it again in RAM to check it.
+- i will also add in the ability to only allow column sizes to change at certain floors. This will be a flag the user to set to true or false. If true, it will still go through and get initial column sizes for each column. Then it will compare each size in that floor range for a column stack, choose the largest size, and set all the column elements in that range for that stack to that size.
+	- run rebar group algorithm after this, since algorithm is heavily based on column sizes in the stack
+- eventually turn this into a web app that displays the the slab edge and column locations beneath that floor. It also states the column line name / uid (idk which one yet), the size, and the bar pattern. if not run yet, size and pattern will say "To Be Designed"
+- 

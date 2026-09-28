@@ -1,0 +1,7 @@
+- [x] Disengage corner columns and slab in the RAM SS model
+	- [x] Re-design shear walls considering this. If I cant get the walls to work like that, just stop there
+		- [x] detail where failures occur
+- [x] add in coupling beams to be correct depth
+- [x] engage slab, disengage all exterior columns
+	- [x] Re-design shear walls considering this. If I cant get the walls to work like that, just stop there
+		- [x] detail where failures occur

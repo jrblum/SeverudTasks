@@ -1,0 +1,8 @@
+- [ ] model Benji's added floors
+	- [ ] ask Dan Ki about dead load of Cobiax voided slabs
+- [ ] check foundation loads vs wsp foundation loads
+	- try as hard as I can to get this to work, or else Benji looks dumb
+	- check gravity and wind
+		- use latest code for wind
+- [ ] add live load columns at level 1 if required
+- [ ] check column and wall reinforcing

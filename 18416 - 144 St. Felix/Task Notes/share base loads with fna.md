@@ -1,0 +1,2 @@
+- [ ] share base loads for the service case with fna along with corresponding coordinates
+	-  ![[Pasted image 20260922134918.png]]

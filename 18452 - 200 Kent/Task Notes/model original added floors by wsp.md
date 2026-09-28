@@ -1,0 +1,3 @@
+- [ ] heat check revit model then add the original additional floors that wsp designed
+- [ ] check the loads to foundation / mat and see if they match wsp report
+	- if not talk to benji

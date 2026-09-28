@@ -1,0 +1,7 @@
+- In the Inspection notes, "F3. Cast-in-Place Deep Foundation Elements" does not count mat foundations
+- generally, if there is any brick or cmu on a project, even if not structural, you want to include S.19 in the steel notes
+- We always want to include S.21, the note about structural steel exposed to weather / elements since there is pretty much always a dunnage or screen wall, even on concrete projects
+- always include S.24 incase they decide to use steel-to-steel stairs anywhere
+- always keep C.23 and C.24 as "Cover Your Ass" notes
+- in nyc FO is its own set that needs its own notes. If you are including level 1 in FO set, then you need all the structural notes on the FO set notes
+	- you do not need to use any foundation notes on the superstructure set notes
