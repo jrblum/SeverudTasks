@@ -18,7 +18,7 @@ kanban-plugin: board
 
 - [ ] get cellar elevations coordinated
 - [ ] [[Number columns]]
-- [ ] rename stories
+- [ ] [[rename stories]]
 
 
 ## In Progress
