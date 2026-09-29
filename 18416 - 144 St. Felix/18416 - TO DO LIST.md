@@ -17,6 +17,7 @@ kanban-plugin: board
 
 - [ ] [[Number columns]]
 - [ ] [[rename stories]]
+- [ ] [[benji comment marks]]
 
 
 ## In Progress

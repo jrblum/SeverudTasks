@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6e97ddcaca172b",
+        "id": "1cb2ee333ecb20c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea0cd49eb3806a6",
+            "id": "e3f1014dfcd2ef84",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "18416 - TO DO LIST"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -232,19 +220,20 @@
       "print:Print note": false
     }
   },
-  "active": "3ea0cd49eb3806a6",
+  "active": "e3f1014dfcd2ef84",
   "lastOpenFiles": [
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "benji comment marks.md",
+    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
     "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
-    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18416 - 144 St. Felix/Task Notes/rename stories.md",
     "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
     "18317 - 547 Summit Ave/Task Notes/floor slab designs.md",
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
     "18313 - 1334 York/Task Notes/loading to foundations for mat under shear walls.md",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
     "Design Procedures/Structural Notes/Info Regarding Structural Notes.md",
     "18078- 8-10 Lott St/OVERALL.md",
     "Untitled.base",
@@ -279,7 +268,6 @@
     "Design Procedures",
     "18416 - 144 St. Felix/Task Notes/transfer beam design.md",
     "18416 - 144 St. Felix/Task Notes/Number columns.md",
-    "18416 - 144 St. Felix/Task Notes/share base loads with fna.md",
     "Untitled.canvas"
   ]
 }
