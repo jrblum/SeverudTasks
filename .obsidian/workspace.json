@@ -11,22 +11,14 @@
             "id": "e3f1014dfcd2ef84",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "18416 - TO DO LIST"
+              "icon": "lucide-file",
+              "title": "benji comment marks"
             }
           }
         ]
@@ -234,8 +226,8 @@
   },
   "active": "e3f1014dfcd2ef84",
   "lastOpenFiles": [
-    "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
     "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
     "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
     "18313 - 1334 York/18313 - TO DO LIST.md",
     "18317 - 547 Summit Ave/18317 - TO DO LIST.md",

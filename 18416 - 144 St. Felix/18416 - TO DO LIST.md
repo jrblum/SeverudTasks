@@ -38,10 +38,16 @@ kanban-plugin: board
 - [ ] general notes and typical details
 
 
+## Meeting Topics
+
+- [ ] Cellar Elevations
+- [ ] Do we need to include existing cellar 1 on our new / reno plans
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
