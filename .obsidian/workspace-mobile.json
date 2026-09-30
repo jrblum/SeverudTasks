@@ -11,10 +11,14 @@
             "id": "071cc2cecfedaf99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "18078- 8-10 Lott St/OVERALL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OVERALL"
             }
           }
         ]
