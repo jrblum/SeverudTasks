@@ -2,7 +2,7 @@
 
 - [x] Tag bottom of ex footings on plan with NAVD88 ✅ 2026-09-30
 	- [ ] update elevations of ex footings after I see the tag
-- [ ] for ex. footings, dimension the verifiable dimensions for each foundation.
+- [x] for ex. footings, dimension the verifiable dimensions for each foundation. ✅ 2026-09-30
 - [x] 3d views on bottom right of plans ✅ 2026-09-30
 - [ ] draw ex. foundation walls
 - [x] draw adjacent building foundation ✅ 2026-09-30
