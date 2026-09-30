@@ -17,7 +17,6 @@ kanban-plugin: board
 
 - [ ] [[Number columns]]
 - [ ] [[rename stories]]
-- [ ] [[benji comment marks]]
 
 
 ## In Progress
@@ -25,6 +24,7 @@ kanban-plugin: board
 - [ ] [[transfer beam design]]
 - [ ] [[bracing beam design]]
 - [ ] get cellar elevations coordinated
+- [ ] [[benji comment marks]]
 
 
 ## Complete

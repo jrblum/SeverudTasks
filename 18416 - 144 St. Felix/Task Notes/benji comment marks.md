@@ -1,11 +1,11 @@
 📅 2026-10-01
 
-- [ ] Tag bottom of ex footings on plan with NAVD88
+- [x] Tag bottom of ex footings on plan with NAVD88 ✅ 2026-09-30
 	- [ ] update elevations of ex footings after I see the tag
 - [ ] for ex. footings, dimension the verifiable dimensions for each foundation.
-- [ ] 3d views on bottom right of plans
+- [x] 3d views on bottom right of plans ✅ 2026-09-30
 - [ ] draw ex. foundation walls
-- [ ] draw adjacent building foundation
+- [x] draw adjacent building foundation ✅ 2026-09-30
 - [ ] rename cellars to match arch
 - [ ] draw in a block from the survey drawings that details where the adjacent building is on our plans
 - [ ] create mta drawings
