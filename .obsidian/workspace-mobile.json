@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "342669e60ba848b9",
+        "id": "3c062729b6d0d700",
         "type": "tabs",
         "children": [
           {
-            "id": "547247367608e8a7",
+            "id": "071cc2cecfedaf99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,6 +192,8 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "547247367608e8a7",
-  "lastOpenFiles": []
+  "active": "071cc2cecfedaf99",
+  "lastOpenFiles": [
+    "18078- 8-10 Lott St/OVERALL.md"
+  ]
 }
