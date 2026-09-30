@@ -4,7 +4,7 @@
 	- [ ] update elevations of ex footings after I see the tag
 - [x] for ex. footings, dimension the verifiable dimensions for each foundation. ✅ 2026-09-30
 - [x] 3d views on bottom right of plans ✅ 2026-09-30
-- [ ] draw ex. foundation walls
+- [x] draw ex. foundation walls ✅ 2026-09-30
 - [x] draw adjacent building foundation ✅ 2026-09-30
 - [x] rename cellars to match arch ✅ 2026-09-30
 - [x] draw in a block from the survey drawings that details where the adjacent building is on our plans ✅ 2026-09-30
