@@ -7,8 +7,8 @@
 - [ ] draw ex. foundation walls
 - [x] draw adjacent building foundation ✅ 2026-09-30
 - [x] rename cellars to match arch ✅ 2026-09-30
-- [ ] draw in a block from the survey drawings that details where the adjacent building is on our plans
-	- [ ] should be shown on every plan that has a building next to it. Find the elevations of 1 Hanson Pl. to determine this
+- [x] draw in a block from the survey drawings that details where the adjacent building is on our plans ✅ 2026-09-30
+	- [x] should be shown on every plan that has a building next to it. Find the elevations of 1 Hanson Pl. to determine this ✅ 2026-09-30
 - [ ] create mta drawings
 	- [ ] FO-200 series
 		- [ ] FO-200: show the plan
