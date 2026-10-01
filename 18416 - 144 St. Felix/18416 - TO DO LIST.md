@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## To Do: High Priority ⏫
 
-- [ ] [[Number columns]]
 
 
 ## In Progress
@@ -24,6 +23,7 @@ kanban-plugin: board
 - [ ] [[bracing beam design]]
 - [ ] get cellar elevations coordinated
 - [ ] [[benji comment marks]]
+- [ ] [[Number columns]]
 - [ ] [[rename stories]]
 
 
