@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Spread Footings Tool Initial Doc"
             }
+          },
+          {
+            "id": "6be6eda0322d5a27",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-02 13.52.06.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,13 +234,17 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
-      "print:Print note": false
+      "print:Print note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0480d87fc8b92ced",
+  "active": "6be6eda0322d5a27",
   "lastOpenFiles": [
-    "Developer Tasks/Spread footings/Spread footings to do list.md",
     "Developer Tasks/Spread footings/Spread Footings Tool Initial Doc.md",
+    "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md",
+    "Developer Tasks/Untitled.base",
+    "Developer Tasks/Spread footings/Untitled.canvas",
+    "Developer Tasks/Spread footings/Spread footings to do list.md",
     "Developer Tasks/Spread footings",
     "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "Developer Tasks",
@@ -267,8 +284,6 @@
     "18317 - 547 Summit Ave/Task Notes",
     "18452 - 200 Kent/Task Notes",
     "18452 - 200 Kent",
-    "Design Procedures/Untitled.md",
-    "Design Procedures/Structural Notes",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922160853.png",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922162311.png",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922160709.png",
