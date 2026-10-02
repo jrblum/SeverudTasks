@@ -11,22 +11,14 @@
             "id": "e3f1014dfcd2ef84",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Developer Tasks/Spread footings/Spread Footings Tool Design Doc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "18317 - TO DO LIST"
+              "icon": "lucide-file",
+              "title": "Spread Footings Tool Design Doc"
             }
           }
         ]
@@ -234,13 +226,17 @@
   },
   "active": "e3f1014dfcd2ef84",
   "lastOpenFiles": [
+    "Developer Tasks/Spread footings/Spread footings to do list.md",
+    "Developer Tasks/Spread footings/Spread Footings Tool Design Doc.md",
+    "Developer Tasks/Spread footings",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "Developer Tasks",
     "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
     "18452 - 200 Kent/Task Notes/model Benji added floors.md",
     "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
     "18313 - 1334 York/18313 - TO DO LIST.md",
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
     "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
@@ -276,10 +272,6 @@
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922160853.png",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922162311.png",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922160709.png",
-    "Design Procedures/Flat Plate Slabs",
-    "Design Procedures",
-    "18416 - 144 St. Felix/Task Notes/transfer beam design.md",
-    "18416 - 144 St. Felix/Task Notes/Number columns.md",
     "Untitled.canvas"
   ]
 }
