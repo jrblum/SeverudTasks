@@ -17,7 +17,7 @@
 		- or is this a user input?
 
 ### Data Transfer
-- Revit app writen in C#
+- Revit app written in C#
 - outputs a .csv with all the footing / column information we need
 	- is it two csvs? one with col and one with foundations?
 	- what about a json?
