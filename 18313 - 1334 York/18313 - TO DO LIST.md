@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
+- [ ] design the link beams
 
 
 ## To Do: High Priority ⏫

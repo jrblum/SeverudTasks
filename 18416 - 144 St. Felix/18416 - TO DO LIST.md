@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] [[benji comment marks]]
 - [ ] [[Number columns]]
 - [ ] [[rename stories]]
+- [ ] clean up markups for meeting with FNA
 
 
 ## Complete

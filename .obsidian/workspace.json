@@ -25,12 +25,23 @@
             "id": "6be6eda0322d5a27",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md"
+                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-02 13.52.06.excalidraw"
+              "icon": "lucide-trello",
+              "title": "18416 - TO DO LIST"
             }
           }
         ],
@@ -240,20 +251,20 @@
   },
   "active": "6be6eda0322d5a27",
   "lastOpenFiles": [
-    "Developer Tasks/Spread footings/Spread Footings Tool Initial Doc.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
     "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md",
+    "Developer Tasks/Spread footings/Spread Footings Tool Initial Doc.md",
     "Developer Tasks/Untitled.base",
     "Developer Tasks/Spread footings/Untitled.canvas",
     "Developer Tasks/Spread footings/Spread footings to do list.md",
     "Developer Tasks/Spread footings",
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "Developer Tasks",
     "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
     "18452 - 200 Kent/Task Notes/model Benji added floors.md",
     "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
     "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
     "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
