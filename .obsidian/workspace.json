@@ -25,23 +25,14 @@
             "id": "6be6eda0322d5a27",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Developer Tasks/Spread footings/spread-footing-tool-architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "18416 - TO DO LIST"
+              "icon": "lucide-file",
+              "title": "spread-footing-tool-architecture"
             }
           }
         ],
@@ -251,16 +242,17 @@
   },
   "active": "6be6eda0322d5a27",
   "lastOpenFiles": [
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
-    "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md",
     "Developer Tasks/Spread footings/Spread Footings Tool Initial Doc.md",
+    "Developer Tasks/Spread footings/spread-footing-tool-architecture.md",
+    "Developer Tasks/Spread footings/Spread footings to do list.md",
+    "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "Developer Tasks/Untitled.base",
     "Developer Tasks/Spread footings/Untitled.canvas",
-    "Developer Tasks/Spread footings/Spread footings to do list.md",
     "Developer Tasks/Spread footings",
     "Developer Tasks",
-    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
     "18452 - 200 Kent/Task Notes/model Benji added floors.md",
@@ -291,7 +283,6 @@
     "18317 - 547 Summit Ave/Task Notes/design the tie beams and markup.md",
     "18313 - 1334 York/Task Notes",
     "18313 - 1334 York",
-    "18317 - 547 Summit Ave/OVERALL.md",
     "18317 - 547 Summit Ave/Task Notes",
     "18452 - 200 Kent/Task Notes",
     "18452 - 200 Kent",
