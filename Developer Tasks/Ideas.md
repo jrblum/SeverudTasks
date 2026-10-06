@@ -1,2 +1,4 @@
 - For RAM concept, looking at soil bearing reactions is very annoying is you are trying to look at point support reactions. Make a script that just gets the max for each point support and list which combo it is for
 	- exports to an excel files that the engineer can open
+- ram script to rotate column line
+- ram script to change col sizes easier 
