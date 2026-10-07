@@ -15,6 +15,8 @@ kanban-plugin: board
 
 ## To Do: High Priority ⏫
 
+- [ ] add renovation framing to all the lower floors. doesnt matter if it is 100% right, just needs to be in there. go with the long span option
+- [ ] backchecks
 
 
 ## In Progress

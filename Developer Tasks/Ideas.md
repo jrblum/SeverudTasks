@@ -2,3 +2,4 @@
 	- exports to an excel files that the engineer can open
 - ram script to rotate column line
 - ram script to change col sizes easier / make new sections easier
+- a script that looks at all the marks on a bluebeam markup sheet and all the rebar callouts on a revit sheet and then counts how many of each mark there are. could be used to quickly find discrepancies between marks and what is actually on plan
