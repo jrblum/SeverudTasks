@@ -1,0 +1,8 @@
+- 50% on 30th of October
+- coordinate stepping of the columns at the cantilevers for the max 8' cantilever distance
+	- what levels are we walking the columns at?
+- we can use a curved beam at 2nd, 3rd, and 4th floor slab in the plan south west bottom corner
+- for the first, third, and fourth columns around the face, we want them to be rectangular so they can fit in the wall better
+	- ![[Pasted image 20261007132401.png]]
+	- column #1 can be a max of 24" in plan n/s direction
+		- add beam at col 1 to lower effective length in order to accommodate this
