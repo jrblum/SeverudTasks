@@ -27,11 +27,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+                "file": "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false,
@@ -41,7 +40,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "18416 - TO DO LIST"
+              "title": "18317 - TO DO LIST"
             }
           }
         ],
@@ -251,10 +250,10 @@
   },
   "active": "6be6eda0322d5a27",
   "lastOpenFiles": [
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "18317 - 547 Summit Ave/Meeting Notes/20261007_Coordination Call.md",
     "18317 - 547 Summit Ave/Meeting Notes/Pasted image 20261007132401.png",
-    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18317 - 547 Summit Ave/Meeting Notes",
     "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
     "18313 - 1334 York/18313 - TO DO LIST.md",
