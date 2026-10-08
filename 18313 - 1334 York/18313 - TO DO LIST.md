@@ -18,14 +18,13 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] design the link beams
-- [ ] shear wall drawings
-- [ ] design mat footing under core
 
 
 ## Complete
 
 - [ ] look at test pit drawings and mark up existing foundations around the core
+- [ ] design the link beams
+- [ ] shear wall drawings
 - [ ] [[loading to foundations for mat under shear walls]]
 
 

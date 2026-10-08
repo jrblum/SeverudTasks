@@ -25,22 +25,14 @@
             "id": "6be6eda0322d5a27",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "RAM SS and RAM Concept Scripts/RC & RSS - Floor Exporter and Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "18317 - TO DO LIST"
+              "icon": "lucide-file",
+              "title": "RC & RSS - Floor Exporter and Setup"
             }
           }
         ],
@@ -250,13 +242,16 @@
   },
   "active": "6be6eda0322d5a27",
   "lastOpenFiles": [
-    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "RAM SS and RAM Concept Scripts/RSS - Column Design Script.md",
+    "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
     "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
     "18452 - 200 Kent/18542 - TO DO LIST.md",
     "18317 - 547 Summit Ave/Meeting Notes/20261007_Coordination Call.md",
     "18317 - 547 Summit Ave/Meeting Notes/Pasted image 20261007132401.png",
     "18317 - 547 Summit Ave/Meeting Notes",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
     "Developer Tasks/Ideas.md",
     "18416 - 144 St. Felix/Meeting Notes/2026-10-05 - Meeting with FNA.md",
     "18416 - 144 St. Felix/Meeting Notes",
@@ -270,10 +265,8 @@
     "Developer Tasks",
     "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
     "18452 - 200 Kent/Task Notes/model Benji added floors.md",
-    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
     "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
-    "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
     "18416 - 144 St. Felix/Task Notes/rename stories.md",
     "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
     "18317 - 547 Summit Ave/Task Notes/floor slab designs.md",

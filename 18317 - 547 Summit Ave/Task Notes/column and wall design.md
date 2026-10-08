@@ -6,3 +6,5 @@
 - [ ] i can do the wall design
 	- [ ] disengage perimeter columns
 	- [ ] use ASCE wind loads
+- [ ] make the column design app
+	- [ ] is a first pass. requires qc and judgement

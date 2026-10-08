@@ -20,12 +20,13 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] column and wall coordination - ongoing
 - [ ] windtech coordination
+- [ ] updating revit and ram models
 
 
 ## Complete
 
+- [ ] column and wall coordination - ongoing
 - [ ] update Revit to have walls in correct spot
 - [ ] [[design the tie beams and markup]]
 

@@ -15,19 +15,20 @@ kanban-plugin: board
 
 ## To Do: High Priority ⏫
 
+- [ ] create narratives for the two foundation options
 
 
 ## In Progress
 
 - [ ] [[transfer beam design]]
 - [ ] [[bracing beam design]]
-- [ ] get cellar elevations coordinated
 
 
 ## Complete
 
 - [ ] [[share base loads with fna]]
 - [ ] Fix Column knub in revit model at 24th floor
+- [ ] get cellar elevations coordinated
 - [ ] [[Number columns]]
 - [ ] clean up markups for meeting with FNA
 - [ ] [[rename stories]]
