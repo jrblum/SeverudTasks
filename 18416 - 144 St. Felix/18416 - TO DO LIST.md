@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## To Do: High Priority ⏫
 
-- [ ] create narratives for the two foundation options
 
 
 ## In Progress
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] [[share base loads with fna]]
 - [ ] Fix Column knub in revit model at 24th floor
 - [ ] get cellar elevations coordinated
+- [ ] create narratives for the two foundation options
 - [ ] [[Number columns]]
 - [ ] clean up markups for meeting with FNA
 - [ ] [[rename stories]]
