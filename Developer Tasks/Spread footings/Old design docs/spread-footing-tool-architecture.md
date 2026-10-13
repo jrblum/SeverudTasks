@@ -102,16 +102,16 @@ This keeps the engine small and avoids the tool producing a plausible answer for
 
 ### Field notes
 
-| Field | Notes |
-|---|---|
-| `column` | A single object, since the scope is one column per footing. A footing with zero or several matched columns goes into `skipped` with a reason. |
-| `loads[].type` | One of `D, L, Lr, S, R, W, E`. The combination logic keys on `type`, while `case` is just a label. Several cases of the same type (wind in four directions, seismic in two) are each applied as separate combinations. |
-| `load_frame` | `"global"` or `"column_local"`. If the other plugin writes loads in the column's local axes, the engine rotates them using `column.rotation_deg`. This must be confirmed (see Open decisions). |
-| `load_elevation` | The elevation where the reported loads act. The engine adds V times (distance to footing base) to the base moment. |
-| Unfactored cases only | Do not export combinations. The engine builds them. |
-| `fc` (footing and column) | Needed for the bearing check at the column-footing interface. |
-| `input_hash` | Hash of everything the design depends on (geometry, fc, column, loads). Echoed back on import to detect stale designs. |
-| `skipped` | Footings the add-in refuses to export, with reasons. The app shows these so nothing disappears silently. |
+| Field                     | Notes                                                                                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `column`                  | A single object, since the scope is one column per footing. A footing with zero or several matched columns goes into `skipped` with a reason.                                                                          |
+| `loads[].type`            | One of `D, L, Lr, S, R, W, E`. The combination logic keys on `type`, while `case` is just a label. Several cases of the same type (wind in four directions, seismic in two) are each applied as separate combinations. |
+| `load_frame`              | `"global"` or `"column_local"`. If the other plugin writes loads in the column's local axes, the engine rotates them using `column.rotation_deg`. This must be confirmed (see Open decisions).                         |
+| `load_elevation`          | The elevation where the reported loads act. The engine adds V times (distance to footing base) to the base moment.                                                                                                     |
+| Unfactored cases only     | Do not export combinations. The engine builds them.                                                                                                                                                                    |
+| `fc` (footing and column) | Needed for the bearing check at the column-footing interface.                                                                                                                                                          |
+| `input_hash`              | Hash of everything the design depends on (geometry, fc, column, loads). Echoed back on import to detect stale designs.                                                                                                 |
+| `skipped`                 | Footings the add-in refuses to export, with reasons. The app shows these so nothing disappears silently.                                                                                                               |
 
 ### Not in the export (entered in the app)
 
