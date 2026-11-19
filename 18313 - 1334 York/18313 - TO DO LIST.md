@@ -10,23 +10,21 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
-- [ ] backchecks
 
 
 ## To Do: High Priority ⏫
 
+- [ ] shear wall drawings
 
 
 ## In Progress
 
+- [ ] look at test pit drawings and mark up existing foundations around the core
+- [ ] [[loading to foundations for mat under shear walls]]
 
 
 ## Complete
 
-- [ ] look at test pit drawings and mark up existing foundations around the core
-- [ ] design the link beams
-- [ ] shear wall drawings
-- [ ] [[loading to foundations for mat under shear walls]]
 
 
 

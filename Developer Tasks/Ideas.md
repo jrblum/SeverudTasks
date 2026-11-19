@@ -1,5 +1,0 @@
-- For RAM concept, looking at soil bearing reactions is very annoying is you are trying to look at point support reactions. Make a script that just gets the max for each point support and list which combo it is for
-	- exports to an excel files that the engineer can open
-- ram script to rotate column line
-- ram script to change col sizes easier / make new sections easier
-- a script that looks at all the marks on a bluebeam markup sheet and all the rebar callouts on a revit sheet and then counts how many of each mark there are. could be used to quickly find discrepancies between marks and what is actually on plan

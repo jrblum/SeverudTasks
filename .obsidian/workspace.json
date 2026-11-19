@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "798b0e622e9514a8",
+        "id": "1cb2ee333ecb20c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a79114ca30f5a741",
+            "id": "e3f1014dfcd2ef84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "18416 - TO DO LIST"
             }
           }
         ]
@@ -217,47 +229,27 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
-      "print:Print note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "print:Print note": false
     }
   },
-  "active": "a79114ca30f5a741",
+  "active": "e3f1014dfcd2ef84",
   "lastOpenFiles": [
-    "Developer Tasks/Spread footings/spread-footing-tool-architecture-v4.md",
-    "Developer Tasks/Spread footings/Spread footings to do list.md",
-    "Developer Tasks/Ideas.md",
-    "Developer Tasks/Spread footings/Drawing 2026-10-02 13.52.06.excalidraw.md",
-    "Developer Tasks/Spread footings/Old design docs/Spread Footings Tool Initial Doc.md",
-    "Developer Tasks/Spread footings/Old design docs/spread-footing-tool-architecture.md",
-    "Developer Tasks/Spread footings/Old design docs",
-    "Developer Tasks/Spread footings/Old design docs/spread-footing-tool-architecture review.md",
-    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
-    "18452 - 200 Kent/18542 - TO DO LIST.md",
-    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
-    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
-    "18313 - 1334 York/18313 - TO DO LIST.md",
-    "RAM SS and RAM Concept Scripts/RSS - Column Design Script.md",
-    "RAM SS and RAM Concept Scripts/RC & RSS - Floor Exporter and Setup.md",
-    "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
-    "18317 - 547 Summit Ave/Meeting Notes/20261007_Coordination Call.md",
-    "18317 - 547 Summit Ave/Meeting Notes/Pasted image 20261007132401.png",
-    "18317 - 547 Summit Ave/Meeting Notes",
-    "18416 - 144 St. Felix/Meeting Notes/2026-10-05 - Meeting with FNA.md",
-    "18416 - 144 St. Felix/Meeting Notes",
-    "Developer Tasks/Untitled.base",
-    "Developer Tasks/Spread footings/Untitled.canvas",
-    "Developer Tasks/Spread footings",
-    "Developer Tasks",
-    "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
-    "18452 - 200 Kent/Task Notes/model Benji added floors.md",
     "18416 - 144 St. Felix/Task Notes/benji comment marks.md",
+    "18416 - 144 St. Felix/18416 - TO DO LIST.md",
+    "18283 - 555 Summit AVe/18283 - TO DO LIST.md",
+    "18313 - 1334 York/18313 - TO DO LIST.md",
+    "18317 - 547 Summit Ave/18317 - TO DO LIST.md",
+    "18452 - 200 Kent/18542 - TO DO LIST.md",
     "Design Procedures/Flat Plate Slabs/Flat Plate Slabs.md",
+    "18317 - 547 Summit Ave/Task Notes/column and wall design.md",
     "18416 - 144 St. Felix/Task Notes/rename stories.md",
     "18416 - 144 St. Felix/Task Notes/talk to Iliana about the one column that just stops at cellar 3.md",
     "18317 - 547 Summit Ave/Task Notes/floor slab designs.md",
     "18313 - 1334 York/Task Notes/loading to foundations for mat under shear walls.md",
     "Design Procedures/Structural Notes/Info Regarding Structural Notes.md",
+    "18078- 8-10 Lott St/OVERALL.md",
     "Untitled.base",
+    "2026-09-25.md",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260922134918.png",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924110128.png",
     "18416 - 144 St. Felix/Task Notes/Images",
@@ -266,10 +258,28 @@
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924105436.png",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924104337.png",
     "18416 - 144 St. Felix/Task Notes/Images/Pasted image 20260924104325.png",
+    "18416 - 144 St. Felix/Task Notes/column coordination.md",
+    "18416 - 144 St. Felix/CA.md",
+    "18416 - 144 St. Felix/DESIGN.md",
+    "18416 - 144 St. Felix/OVERALL.md",
+    "18317 - 547 Summit Ave/Task Notes/design the tie beams and markup.md",
     "18313 - 1334 York/Task Notes",
     "18313 - 1334 York",
+    "18317 - 547 Summit Ave/OVERALL.md",
+    "18317 - 547 Summit Ave/Task Notes",
+    "18452 - 200 Kent/Task Notes/model original added floors by wsp.md",
+    "18452 - 200 Kent/Task Notes",
+    "18452 - 200 Kent/Task Notes/model Benji added floors.md",
+    "18452 - 200 Kent",
+    "Design Procedures/Untitled.md",
+    "Design Procedures/Structural Notes",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922160853.png",
     "Design Procedures/Flat Plate Slabs/Pasted image 20260922162311.png",
+    "Design Procedures/Flat Plate Slabs/Pasted image 20260922160709.png",
+    "Design Procedures/Flat Plate Slabs",
+    "Design Procedures",
+    "18416 - 144 St. Felix/Task Notes/transfer beam design.md",
+    "18416 - 144 St. Felix/Task Notes/Number columns.md",
     "Untitled.canvas"
   ]
 }

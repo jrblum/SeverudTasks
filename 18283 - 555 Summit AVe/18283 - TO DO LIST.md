@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
-- [ ] fake column grids for column schedule
 
 
 ## To Do: High Priority ⏫

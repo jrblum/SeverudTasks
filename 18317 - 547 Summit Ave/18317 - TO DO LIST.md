@@ -10,7 +10,9 @@ kanban-plugin: board
 
 ## To Do: Medium Priority 🔼
 
-- [ ] backchecks
+- [ ] update Revit to have walls in correct spot
+- [ ] windtech coordination
+- [ ] column and wall coordination - ongoing
 
 
 ## To Do: High Priority ⏫
@@ -21,14 +23,10 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] windtech coordination
-- [ ] updating revit and ram models
 
 
 ## Complete
 
-- [ ] column and wall coordination - ongoing
-- [ ] update Revit to have walls in correct spot
 - [ ] [[design the tie beams and markup]]
 
 
